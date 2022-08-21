@@ -1,0 +1,28 @@
+**
+Power Generator,3500
+X
+XX
+**
+Power Generator,6000
+X
+XX
+**
+Power Generator,4500
+X
+PT106,Command Center
+PT109,Command Center
+PT111,Research Station
+XX
+**
+Power Generator,5000
+X
+XX
+PT112
+**
+Power Generator,4000
+X
+Power Generator,PT107
+Command Center,PT106
+XX
+PT111
+PT114

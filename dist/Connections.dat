@@ -1,0 +1,22 @@
+Power Generator-PT106,PT107
+Command Center-PT106,PT109,PT111
+Hydroponics/GreenHouse-PT116,PT110,PT111
+Hospital-PT110,PT112,PT109,PT113
+Living Quarters Block A-PT108,PT112
+Living Quarters Block B-PT108,PT106
+Machinist Shop-PT112,PT115
+Research Station-PT111,PT107
+Storage Facility/Junkyard-PT114,PT116
+Smelter-PT113,PT115
+Water Treatment Facility-PT114,PT113
+PT106-Power Generator,Living Quarters Block B,Command Center
+PT107-Power Generator,Research Station
+PT108-Living Quarters Block B,Living Quarters Block A
+PT109-Hospital,Command Center
+PT110-Hospital,Hydroponics/GreenHouse
+PT111-Command Center,Research Station,Hydroponics/GreenHouse
+PT112-Hospital,Living Quarters Block A,Machinist Shop
+PT113-Hospital,Water Treatment Facility,Smelter
+PT114-Water Treatment Facility,Storage Facility/Junkyard
+PT115-Machinist Shop,Smelter
+PT116-Storage Facility/Junkyard,Hydroponics/GreenHouse
